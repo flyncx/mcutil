@@ -1,6 +1,7 @@
 {
   "name": "@flyncx/mcutil",
   "type": "module",
+  "private": "false",
   "version": "26.11.06",
   "description": "Mcutil.",
   "license": "Apache-2.0",
