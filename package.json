@@ -1,17 +1,13 @@
 {
-  "name": "tsdown-starter",
+  "name": "@flyncx/mcutil",
   "type": "module",
-  "version": "0.0.0",
-  "description": "A starter for creating a TypeScript package.",
-  "author": "Author Name <author.name@mail.com>",
-  "license": "MIT",
-  "homepage": "https://github.com/author/library#readme",
+  "version": "26.11.06",
+  "description": "Mcutil.",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/flyncx/mcutil/#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/author/library.git"
-  },
-  "bugs": {
-    "url": "https://github.com/author/library/issues"
+    "url": "git+https://github.com/flyncx/mcutil/"
   },
   "exports": {
     ".": "./dist/index.mjs",
